@@ -2,8 +2,6 @@
 
 TSEditor is a lightweight desktop application that allows players to view, edit, and manage game save data without manually modifying save files.
 
-Whether you want to adjust money, experience, owned vehicles, garages, drivers, or profile progression, the editor provides a structured interface while maintaining maximum control over your game data.
-
 ---
 
 ## 🔗 Latest Release of TSEditor
