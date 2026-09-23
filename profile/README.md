@@ -9,7 +9,7 @@ Whether you want to adjust money, experience, owned vehicles, garages, drivers, 
 ## 🔗 Latest Release of TSEditor
 
 - **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/TSEditor-ETS2-ATS-Save-Editor-Tool/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
